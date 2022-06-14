@@ -567,6 +567,7 @@ class ComposerStaticInit5ec524b570a36f6fdad5d36a9de29312
         'App\\Models\\MS_CATEGORY' => __DIR__ . '/../..' . '/app/Models/MS_CATEGORY.php',
         'App\\Models\\MS_PRODUCT' => __DIR__ . '/../..' . '/app/Models/MS_PRODUCT.php',
         'App\\Models\\MS_PRODUCTDETAIL' => __DIR__ . '/../..' . '/app/Models/MS_PRODUCTDETAIL.php',
+        'App\\Models\\MS_USER' => __DIR__ . '/../..' . '/app/Models/MS_USER.php',
         'App\\Models\\MsUserModel' => __DIR__ . '/../..' . '/app/Models/MsUserModel.php',
         'App\\Models\\User' => __DIR__ . '/../..' . '/app/Models/User.php',
         'App\\Providers\\AppServiceProvider' => __DIR__ . '/../..' . '/app/Providers/AppServiceProvider.php',

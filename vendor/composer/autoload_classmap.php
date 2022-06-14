@@ -32,6 +32,7 @@ return array(
     'App\\Models\\MS_CATEGORY' => $baseDir . '/app/Models/MS_CATEGORY.php',
     'App\\Models\\MS_PRODUCT' => $baseDir . '/app/Models/MS_PRODUCT.php',
     'App\\Models\\MS_PRODUCTDETAIL' => $baseDir . '/app/Models/MS_PRODUCTDETAIL.php',
+    'App\\Models\\MS_USER' => $baseDir . '/app/Models/MS_USER.php',
     'App\\Models\\MsUserModel' => $baseDir . '/app/Models/MsUserModel.php',
     'App\\Models\\User' => $baseDir . '/app/Models/User.php',
     'App\\Providers\\AppServiceProvider' => $baseDir . '/app/Providers/AppServiceProvider.php',
